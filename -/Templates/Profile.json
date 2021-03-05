@@ -1,0 +1,21 @@
+{
+    "Profile": {
+        "Name": "",
+        "UUID": "",
+        "Social_Media": {
+            "Twitter": "",
+            "YouTube": "",
+            "Instagram": "",
+            "TikTok": "",
+            "Twitch": "",
+            "Discord": "",
+            "SnapChat": ""
+        },
+        "Appearance": {
+            "Icon": "",
+            "Color": "",
+            "Glow": "",
+            "Status": ""
+        }
+    }
+}
